@@ -1,0 +1,51 @@
+header{
+  background-color: black;
+
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+  color: mistyrose
+}
+body {
+  margin-top: none;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+  background-color: white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+nav{
+  float: none;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin-left: 210px
+}
+
+ul li a {
+  color: mistyrose;
+  text-decoration: none;
+
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  margin-left: 300px;
+  margin-right: 280px;
+  background-color: mistyrose;
+}
